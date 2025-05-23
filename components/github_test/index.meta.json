@@ -1,0 +1,17 @@
+{
+  "apiName": "github_test",
+  "label": {
+    "zh_CN": "github_test",
+    "en_US": ""
+  },
+  "icon": "./icon.svg",
+  "cover": "./cover.svg",
+  "description": {
+    "zh_CN": "github test 组件描述",
+    "en_US": "github test component description"
+  },
+  "device": [
+    "pc"
+  ],
+  "protocolVersion": "3.0"
+}
